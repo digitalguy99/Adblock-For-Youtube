@@ -3,6 +3,7 @@
 ## Why?
 
 [![Reason Why Download Is Needed](https://github-production-user-asset-6210df.s3.amazonaws.com/52367722/272339143-b8118342-fe4c-43c9-b212-e1675766f291.png)](https://www.reddit.com/r/youtube/comments/16hy2of/the_extension_adblock_for_youtube_has_now/)
+**(click on image above for source)**
 
 ## How?
 
@@ -10,7 +11,7 @@
 1: go to chrome://extensions/
 
 2: in the top right turn on developer mode.\
-![image](https://github.com/katopiler/Adblock-For-Youtube/assets/64710752/adb23c85-2dc9-4682-9737-4cd07da31ec3)   ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Arrow_png_image.png/320px-Arrow_png_image.png)   ![image](https://github.com/katopiler/Adblock-For-Youtube/assets/64710752/fdd64281-28f0-4bec-9151-bb5482fdbf2e)
+![image](https://github.com/katopiler/Adblock-For-Youtube/assets/64710752/adb23c85-2dc9-4682-9737-4cd07da31ec3)   ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Red_merge_arrow.svg/200px-Red_merge_arrow.svg.png)   ![image](https://github.com/katopiler/Adblock-For-Youtube/assets/64710752/fdd64281-28f0-4bec-9151-bb5482fdbf2e)
 
 ### Installing
 
